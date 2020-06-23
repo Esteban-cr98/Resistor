@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Resistor</string>
+    <string name="primera_banda">Primera banda</string>
+    <string name="Segunda_banda">Segunda banda</string>
+    <string name="Banda_Mult">Tercera banda</string>
+    <string name="Tolerancia">Banda de tolerancia</string>
+    <string name="Img">Imagen resistor</string>
+    <string name="p_0">0</string>
+    <string name="p_1">1</string>
+    <string name="p_2">2</string>
+    <string name="p_3">3</string>
+    <string name="p_4">4</string>
+    <string name="p_5">5</string>
+    <string name="p_6">6</string>
+    <string name="p_7">7</string>
+    <string name="p_8">8</string>
+    <string name="p_9">9</string>
+    <string name="per_1">2%</string>
+    <string name="per_2">5%</string>
+    <string name="per_3">10%</string>
+    <string name="calc">Calcular</string>
+
+</resources>
